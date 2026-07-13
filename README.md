@@ -4,6 +4,8 @@ Aqui estão todos os arquivos que produzi durante o curso de Git \& GitHub do Te
 
 Englobando o básico de Git, GitHub, seus comandos e integração com a IDE Visual Studio Code.
 
+Além disso, abordando como se organizar com conceitos de Git Flow, padronizações de branchs e commits, juntamente com resolução de conflitos.
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova_branch>
