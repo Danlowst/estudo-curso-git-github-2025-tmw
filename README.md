@@ -4,7 +4,7 @@ Aqui estão todos os arquivos que produzi durante o curso de Git \& GitHub do Te
 
 Englobando o básico de Git, GitHub, seus comandos e integração com a IDE Visual Studio Code.
 
-## Fluco de trabalho Git local
+## Fluxo de trabalho Git local
 
 01. git checkout -b <nova_branch>
 02. cria ou atualiza arquivos
@@ -15,7 +15,7 @@ Englobando o básico de Git, GitHub, seus comandos e integração com a IDE Visu
 07. git checkout main
 08. git merge nova_branch
 
-## Fluco de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 01. git clone
 02. git checkout -b <nova_branch> 
