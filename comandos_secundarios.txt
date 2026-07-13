@@ -7,7 +7,3 @@ Este arquivo contém informações adicionais para git
 - comandos estranhos
 
 # Mais comandos!!!
-
-dajsbnkdjbakjsbda
-aujsbdajkbsd
-alsdnçaksnd
